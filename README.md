@@ -7,7 +7,7 @@ You are invited to complete a survey about Access to Services for People Who Stu
 **What is this project about?**
 
 
-This project has 4 goals: 
+This project has four goals: 
 
 
 a) to determine how many PWS live in NL. We currently do not know this basic fact about our province.
@@ -16,7 +16,7 @@ b) to understand what services are available for Preschoolers (1-5yrs.), school 
 
 c) to gauge awareness of resources available to PWS.
 
-d) to assess needs and access to resources for speech-language pathologists, early childhood educators, teachers, guidance counsellors, health clinicians, etc.
+d) to assess needs and access to resources for speech-language pathologists, early childhood educators, teachers, guidance counsellors, and health clinicians.
 
 
 
@@ -42,8 +42,7 @@ We are not collecting any personally identifiable data (e.g. names, addresses) f
 
 All response data will be stored online through the Qualtrics website. Your responses will be stored in a password protected database. No personally identifiable information will be linked to your responses.
 
-The following three people who may access the raw data (i.e. as individual responses).  
-
+The following three people may access the raw data (i.e. as individual responses).  
 
 1) Dr. Paul De Decker, an Associate Professor of Linguistics at Memorial University.
 
@@ -70,6 +69,8 @@ You are free to not take part in this survey with no penalty to you. There is al
 
 For some people, some questions that ask about negative experiences related to stuttering may cause them to feel uncomfortable. These questions are not required so if you do not wish to provide an answer you may choose to skip those questions. There is no penalty for choosing to not answer such questions.
 
-If you choose not to take part in this survey, it will not affect your participation in the Newfoundland and Labrador Stuttering Association.
+If you experience any negative psychological discomfort please contact the Mental Health Crisis Line:709-777-3200 or Toll Free 1-1888-737-4668.
 
-If you have any questions about your participation in this survey, please contact NLSA Chair, Greg O'Grady [greg@nlsacollaborative.ca](mailto:greg@nlsacollaborative.ca) for more information.
+If you choose not to take part in this survey, it will not affect your relationship with the Newfoundland and Labrador Stuttering Association. 
+
+Finally, if you have any questions about your participation in this survey, please contact NLSA Chair, Greg O'Grady [greg@nlsacollaborative.ca](mailto:greg@nlsacollaborative.ca) for more information.
