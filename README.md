@@ -59,7 +59,7 @@ All raw data will be retained indefinitely for the purposes of advocacy for PWS 
 
 Stakeholders and members of the NLSA Solidarity Project will have access to results in a pooled format. We will then decide together which data will be used for advocacy purposes.
 
-We will produce a final report that highlights any significant findings from the survey. Where appropriate, we may paraphrase information shared with us through the survey. This report will be publicly available and accessible from the project webpage at [nlsacollaborative.ca](http://nlsascollaborative.ca/)
+We will produce a final report that highlights any significant findings from the survey. Where appropriate, we may paraphrase information shared with us through the survey. This report will be publicly available and accessible from the project webpage at [nlsacollaborative.ca](http://nlsacollaborative.ca/)
 
 
 
@@ -71,6 +71,6 @@ For some people, some questions that ask about negative experiences related to s
 
 If you experience any negative psychological discomfort please contact the Mental Health Crisis Line:709-777-3200 or Toll Free 1-1888-737-4668.
 
-If you choose not to take part in this survey, it will not affect your relationship with the Newfoundland and Labrador Stuttering Association. 
+If you choose not to take part in this survey, it will not affect your relationship with the Newfoundland and Labrador Stuttering Association.
 
 Finally, if you have any questions about your participation in this survey, please contact NLSA Chair, Greg O'Grady [greg@nlsacollaborative.ca](mailto:greg@nlsacollaborative.ca) for more information.
