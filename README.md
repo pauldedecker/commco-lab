@@ -11,7 +11,6 @@ You are invited to complete a survey about Access to Services for People Who Stu
 This project has 4 goals: 
 
 
-
 a) to determine how many PWS live in NL. We currently do not know this basic fact about our province.
 
 b) to understand what services are available for Preschoolers (1-5yrs.), school age (6-13yrs), adolescents and adults (14-85 plus) who stutter, and identify any gaps in this system.
@@ -40,44 +39,38 @@ b) to advocate for government funding to research and establish the identified n
 
 
 
-We are not collecting any personally identifiable data (e.g. names, addresses) from you. In this respect, your identity will remain anonymous. There are questions that ask about age, gender and other demographic information that will help us understand what different age groups might need in terms of services and support. This is why we collect such information. However, you are free to skip any questions that you do not wish to answer. 
+We are not collecting any personally identifiable data (e.g. names, addresses) from you. In this respect, your identity will remain anonymous. There are questions that ask about age, gender and other demographic information that will help us tailor the survey to your own experiences. If you leave these questions blank the website will prompt you to complete them.
 
+All response data will be stored online through the Qualtrics website. Your responses will be stored in a password protected database. No personally identifiable information will be linked to your responses.
 
-
-All response data will be stored online through the Qualtrics website, a survey website used by researchers around the world. Your responses will be stored in this database in a coded form (such as Respondent #1). No personally identifiable information will be linked to your responses.
-
-
-
-Members of the NLSA Solidarity Project will have access to results in a pooled format. You are free to not take part in this survey with no penalty to you. There is also no direct benefit to you as an individual in responding to this survey though we hope that this research will lead to improved access to services for PWS and assist ECE, Teachers, parents, SLPs in their ability to assist PWS. 
-
-
-
-**What else should I know?**
-
-
-
-There are three people who may access the raw data (i.e. as individual responses). They are: 
-
+The following three people who may access the raw data (i.e. as individual responses).  
 
 
 1) Dr. Paul De Decker, an Associate Professor of Linguistics at Memorial University.
 
-2) A research assistant and member of the Solidarity Project team will be have access to the data for the purposes of data analysis. 
+2) Greg O’Grady, Chair of the NLSA. 
 
-3) Greg O’Grady, Chair of the NLSA. 
+3) A research assistant and member of the Solidarity Project team.
 
 
 
 **Importantly,** at no time will any of these people know who contributed which response. 
 
 
-
 All raw data will be retained indefinitely for the purposes of advocacy for PWS in NL. 
 
+Stakeholders and members of the NLSA Solidarity Project will have access to results in a pooled format. We will then decide together which data will be used for advocacy purposes. 
+
+We will produce a final report that highlights any significant findings from the survey. Where appropriate, we may paraphrase information shared with us through the survey. This report will be publicly available and accessible from the project webpage at [nlsacollaborative.ca](http://nlsascollaborative.ca/)
 
 
-We will produce a final report that highlights any significant findings from the survey. This report will be publicly available and accessible from the project webpage at [nlsacollaborative.ca](http://nlsascollaborative.ca/)
 
+
+**What else should I know?**
+You are free to not take part in this survey with no penalty to you. There is also no direct benefit to you as an individual in responding to this survey though we hope that this research will lead to improved access to services for PWS and help early childhood educators, teachers, parents, and speech language pathologists in their ability to assist PWS. 
+
+
+For some people, some questions that ask about negative experiences related to stuttering may cause them to feel uncomfortable. These questions are not required so if you do not wish to provide an answer you may choose to skip those questions. There is no penalty for choosing to not answer such questions. “
 
 
 If you have any questions about your participation in this survey, please contact NLSA Chair, Greg O'Grady [greg@nlsacollaborative.ca](mailto:greg@nlsacollaborative.ca) for more information.
