@@ -1,11 +1,10 @@
-# nlsacollaborative
+# nlsa collaborative project: Survey on Barriers and Accessibility in NL
 
 You are invited to complete a survey about Access to Services for People Who Stutter in Newfoundland and Labrador. This survey is part of The NLSA Solidarity Project, which is a cross-sector collaborative of people who stutter (PWS), members of provincial government, public-school teachers, speech-language pathologists (S-LP), academics, university students, mental health professionals, disability advocates, and members of the Newfoundland and Labrador Stuttering Association (NLSA). We are all brought together around a common goal to address the current needs of people who stutter in Newfoundland and Labrador. Please read the following before continuing. 
 
 
 
 **What is this project about?**
-
 
 
 This project has 4 goals: 
@@ -59,7 +58,7 @@ The following three people who may access the raw data (i.e. as individual respo
 
 All raw data will be retained indefinitely for the purposes of advocacy for PWS in NL. 
 
-Stakeholders and members of the NLSA Solidarity Project will have access to results in a pooled format. We will then decide together which data will be used for advocacy purposes. 
+Stakeholders and members of the NLSA Solidarity Project will have access to results in a pooled format. We will then decide together which data will be used for advocacy purposes.
 
 We will produce a final report that highlights any significant findings from the survey. Where appropriate, we may paraphrase information shared with us through the survey. This report will be publicly available and accessible from the project webpage at [nlsacollaborative.ca](http://nlsascollaborative.ca/)
 
