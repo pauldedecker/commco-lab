@@ -1,6 +1,6 @@
-# NLSA Collaborative Project: Survey on Barriers and Accessibility in NL
+# NLSA Collaborative Project: Survey on Barriers and Accessibility
 
-You are invited to complete a survey about Access to Services for People Who Stutter in Newfoundland and Labrador. This survey is part of The NLSA Solidarity Project, which is a cross-sector collaborative of people who stutter (PWS), members of provincial government, public-school teachers, speech-language pathologists (S-LP), academics, university students, mental health professionals, disability advocates, and members of the Newfoundland and Labrador Stuttering Association (NLSA). We are all brought together around a common goal to address the current needs of people who stutter in Newfoundland and Labrador. Please read the following before continuing. 
+You are invited to complete a survey about Access to Services for People Who Stutter in Newfoundland and Labrador. This survey is part of The Newfoundland and Labrador Stuttering Association Solidarity Project, which is a cross-sector collaborative of people who stutter (PWS), members of provincial government, public-school teachers, early childhood educators, speech-language pathologists (S-LP), academics, university students, mental health professionals, disability advocates, and members of the Newfoundland and Labrador Stuttering Association (NLSA). We are all brought together around a common goal to address the current needs of people who stutter in Newfoundland and Labrador. Please read the following before continuing. 
 
 
 
@@ -27,16 +27,15 @@ d) to assess needs and access to resources for speech-language pathologists, ear
 Data collected will be used in the following ways: 
 
 
-
 a) as evidence to identify deficits in intensive / specialized programs and services. We believe that this will help identify / reduce / eliminate barriers to the existing, limited clinical programs, services and supports in NL. 
 
 b) to advocate for government funding to research and establish the identified needed intensive / specialized programs, services and supports for PWS in our province. We also want to develop workshops/guides for participants to understand concealable social identities commonly held by PWS, and any mental health concerns that often go along with them. SLPs, ECE's, PWS, and community members will develop skills to become aware of the role of stigma associated with non-standard ways of speaking.
 
+c) to identify other areas / concerns / issues related to supports and services that will require future research or surveying.
+
 
 
 **Will my answers be anonymous and confidential?**
-
-
 
 We are not collecting any personally identifiable data (e.g. names, addresses) from you. In this respect, your identity will remain anonymous. There are questions that ask about age, gender and other demographic information that will help us tailor the survey to your own experiences. If you leave these questions blank the website will prompt you to complete them.
 
