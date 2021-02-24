@@ -37,7 +37,7 @@ c) to identify other areas / concerns / issues related to supports and services 
 
 **Will my answers be anonymous and confidential?**
 
-We are not collecting any personally identifiable data (e.g. names, addresses) from you. In this respect, your identity will remain anonymous. There are questions that ask about age, gender and other demographic information that will help us tailor the survey to your own experiences. If you leave these questions blank the website will prompt you to complete them.
+We are not collecting any personally identifiable data (e.g. names, addresses) from you. In this respect, your identity will remain anonymous. There are questions that ask about age, gender and other demographic information that will help us tailor the survey to your own experiences. If you leave these questions blank the website will prompt you to complete them. These questions cannot be skipped but if you do not wish to provide an answer you may choose to exit the survey. Closing the browser will result in an incomplete survey which will be deleted from our database. There is no penalty for withdrawing from the survey.
 
 All response data will be stored online through the Qualtrics website. Your responses will be stored in a password protected database. No personally identifiable information will be linked to your responses.
 
