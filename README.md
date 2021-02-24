@@ -68,8 +68,8 @@ We will produce a final report that highlights any significant findings from the
 **What else should I know?**
 You are free to not take part in this survey with no penalty to you. There is also no direct benefit to you as an individual in responding to this survey though we hope that this research will lead to improved access to services for PWS and help early childhood educators, teachers, parents, and speech language pathologists in their ability to assist PWS. 
 
+For some people, some questions that ask about negative experiences related to stuttering may cause them to feel uncomfortable. These questions are not required so if you do not wish to provide an answer you may choose to skip those questions. There is no penalty for choosing to not answer such questions.
 
-For some people, some questions that ask about negative experiences related to stuttering may cause them to feel uncomfortable. These questions are not required so if you do not wish to provide an answer you may choose to skip those questions. There is no penalty for choosing to not answer such questions. “
-
+If you choose not to take part in this survey, it will not affect your participation in the Newfoundland and Labrador Stuttering Association.
 
 If you have any questions about your participation in this survey, please contact NLSA Chair, Greg O'Grady [greg@nlsacollaborative.ca](mailto:greg@nlsacollaborative.ca) for more information.
