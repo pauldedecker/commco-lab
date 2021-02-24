@@ -80,4 +80,4 @@ We will produce a final report that highlights any significant findings from the
 
 
 
-If you have any questions about your participation in this survey, please contact NLSA Chair, Greg O'Grady[gregog@rogers.com](mailto:gregog@rogers.com) for more information.
+If you have any questions about your participation in this survey, please contact NLSA Chair, Greg O'Grady [greg@nlsacollaborative.ca](mailto:greg@nlsacollaborative.ca) for more information.
