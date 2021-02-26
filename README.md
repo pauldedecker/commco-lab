@@ -33,13 +33,3 @@ We are guided by the following goals:
 3. For Our Communities
 
 -To ask community members about their perceptions of stuttering and what role they may play in removing barriers for PWS.
-
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
