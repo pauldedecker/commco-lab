@@ -9,7 +9,7 @@ We are guided by the following goals:
 1. For People Who Stutter
 
 -To determine how many PWS live in NL. We currently do not know this basic fact about our province.
--To understand what services are available for Preschoolers (1-5yrs.), school age (6-13yrs), adolescents and adults (14-85 plus) who stutter, and identify any gaps in this system.
+-To understand what services are available for Preschoolers (1-5 yrs), school age (6-12 yrs), adolescents (13-17 yrs) and adults (18+) who stutter, and identify any gaps in this system.
 -To gauge awareness of resources available to PWS.
 
 2. For Service Providers
