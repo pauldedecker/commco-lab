@@ -28,4 +28,4 @@ Finally, we are proposing a third project to start later this year. It looks at 
 
 Because of the stigma associated with speech disfluencies, many PWS may attempt to hide their stutter, leading to the construction of what's called a concealable and stigmatized identity. PWS acquire these identities through others’ reacting to their stutter. Consequently, identity is not simply a product of their desire but is a process that takes place between themselves and family members, friends, therapists and others. We hope this project will identify factors that contribute to the maintenance or cessation of concealable stigmatized identities for PWS.
 
-For more information, please contact: info@nlsacollaborative.ca
+For more information, please contact: info[-AT-]nlsacollaborative[-DOT-]ca
