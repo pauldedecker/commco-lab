@@ -18,18 +18,6 @@ The NLSA COLLABORATIVE is a solidarity project. We are:
 
 We are all brought together around a common goal to address the current needs of people who stutter in Newfoundland and Labrador.
 
-We are guided by the following goals:
+For more information, please contact:
 
-1. For People Who Stutter
-
--To determine how many PWS live in NL. We currently do not know this basic fact about our province.
--To understand what services are available for Preschoolers (1-5yrs.), school age (6-13yrs), adolescents and adults (14-85 plus) who stutter, and identify any gaps in this system.
--To gauge awareness of resources available to PWS.
-
-2. For Service Providers
-
--To assess needs and access to resources for SLPs, Early Childhood Educators (ECEs), Teachers, Guidance Counsellors, Health Clinicians, etc.
-
-3. For Our Communities
-
--To ask community members about their perceptions of stuttering and what role they may play in removing barriers for PWS.
+Greg O’Grady (PWS, NLSA Chairperson) greg(AT)nlsacollaborative.ca
