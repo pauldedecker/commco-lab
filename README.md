@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-The NLSA COLLABORATIVE is a solidarity project. We are:
+The NLSA COLLABORATIVE is a research group in solidarity with People Who Stutter in the province of NL.
+
+It consists of:
 
 -people who stutter (PWS)
 -members of provincial government
