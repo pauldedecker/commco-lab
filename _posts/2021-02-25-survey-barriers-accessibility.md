@@ -45,22 +45,9 @@ We are not collecting any personally identifiable data (e.g. names, addresses) f
 
 All response data will be stored online through the Qualtrics website. Your responses will be stored in a password protected database. No personally identifiable information will be linked to your responses.
 
-The following three people may access the raw data (i.e. as individual responses).  
+Because of the methods used in this study, i.e. an online survey, no signed consent forms will be produced.
 
-1) Dr. Paul De Decker, an Associate Professor of Linguistics at Memorial University.
-
-2) Greg O’Grady, Chair of the NLSA. 
-
-3) A research assistant and member of the Solidarity Project team.
-
-
-
-**Importantly,** at no time will any of these people know who contributed which response. 
-
-
-All raw data will be retained indefinitely for the purposes of advocacy for PWS in NL. 
-
-Stakeholders and members of the NLSA Solidarity Project will have access to results in a pooled format. We will then decide together which data will be used for advocacy purposes.
+Data will be kept indefinitely but for a minimum of five years, as required by Memorial University’s policy on Integrity in Scholarly Research. The NLSA will have access to the summarized data in its aggregate form. Data collected from the survey will be used for stuttering advocacy by the NLSA and may be used for research analysis and/or output as presentations at scholarly conferences and publication in academic journals.
 
 We will produce a final report that highlights any significant findings from the survey. Where appropriate, we may paraphrase information shared with us through the survey. This report will be publicly available and accessible from the project webpage at [nlsacollaborative.ca](http://nlsacollaborative.ca/).
 
@@ -75,4 +62,6 @@ If you experience any negative psychological discomfort please contact the Menta
 
 If you choose not to take part in this survey, it will not affect your relationship with the Newfoundland and Labrador Stuttering Association.
 
-Finally, if you have any questions about your participation in this survey, please contact NLSA Chair, Greg O'Grady [greg@nlsacollaborative.ca](mailto:greg@nlsacollaborative.ca) for more information.
+You are welcome to ask questions before, during, or after your participation in this research. If you would like more information about this study, please contact Dr. Paul De Decker: [pauldd@mun.ca](mailto:pauldd@mun.ca). 
+
+The proposal for this research has been reviewed by the Interdisciplinary Committee on Ethics in Human Research and found to be in compliance with Memorial University’s ethics policy. If you have ethical concerns about the research, such as the way you have been treated or your rights as a participant, you may contact the Chairperson of the ICEHR at icehr@mun.ca or by telephone at 709-864-2861.
