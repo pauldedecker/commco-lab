@@ -16,4 +16,7 @@ This project is a sociolinguistic investigation into how identities are construc
 
 Our first project was funded by the Undergraduate Student Summer Internship Program at Memorial University. Linguistics student, Laura Tulk, designed a survey to assess public perceptions of stuttering in NL. To help promote the mandate of the NLSA, we produced a short documentary video called "Getting the Words Out" which was nominated for Best Student Short Doc at the 2020 Silver Wave Film Festival.
 
+[![](http://img.youtube.com/vi/q5qlJvbfsCk/0.jpg)](http://www.youtube.com/watch?v=q5qlJvbfsCk "Getting the Words Out")
+
+
 For more information, please contact: info[-AT-]nlsacollaborative[-DOT-]ca
