@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Survey on Barriers and Accessibility"
-categories: research
+title: "Accessibility Survey"
+categories: Research, Survey
 ---
 
 You are invited to complete a survey about Access to Services for People Who Stutter in Newfoundland and Labrador. This survey is part of The Newfoundland and Labrador Stuttering Association Solidarity Project, which is a cross-sector collaborative of people who stutter (PWS), members of provincial government, public-school teachers, early childhood educators, speech-language pathologists (S-LP), academics, university students, mental health professionals, disability advocates, and members of the Newfoundland and Labrador Stuttering Association (NLSA). We are all brought together around a common goal to address the current needs of people who stutter in Newfoundland and Labrador. Please read the following before continuing. 
@@ -62,6 +62,6 @@ If you experience any negative psychological discomfort please contact the Menta
 
 If you choose not to take part in this survey, it will not affect your relationship with the Newfoundland and Labrador Stuttering Association.
 
-You are welcome to ask questions before, during, or after your participation in this research. If you would like more information about this study, please contact Dr. Paul De Decker: [pauldd@mun.ca](mailto:pauldd@mun.ca). 
+You are welcome to ask questions before, during, or after your participation in this research. If you would like more information about this study, please contact Dr. Paul De Decker: [pauldd@mun.ca](mailto:pauldd@mun.ca).
 
 The proposal for this research has been reviewed by the Interdisciplinary Committee on Ethics in Human Research and found to be in compliance with Memorial University’s ethics policy. If you have ethical concerns about the research, such as the way you have been treated or your rights as a participant, you may contact the Chairperson of the ICEHR at icehr@mun.ca or by telephone at 709-864-2861.
