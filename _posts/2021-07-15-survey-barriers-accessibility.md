@@ -7,12 +7,12 @@ You are invited to complete a survey about the accessibility of services for peo
 
 We are looking to recruit
 
-1. people who stutter (PWS)
-2. primary caregivers of (PWS)
-3. speech-language pathologists
-4. educators
+1. [people who stutter (PWS)](https://mun.az1.qualtrics.com/jfe/form/SV_1YnYI67ewFIF6XX)
+2. [parents or primary caregivers of (PWS)](https://mun.az1.qualtrics.com/jfe/form/SV_2643mGhjL1TAUUC)
+3. [speech-language pathologists](https://mun.az1.qualtrics.com/jfe/form/SV_2s0kxABfUQDjvIa)
+4. [educators](https://mun.az1.qualtrics.com/jfe/form/SV_71cWTwY4h0fPH38)
 
-If you identify as a member of one of these groups, and wish to take the survey, please follow one of these links to the relevant survey page. Once there following the instructions to provide your informed consent and complete the survey.
+If you identify as a member of one of these groups, and wish to take the survey, please click on the appropriate link in the list above to access the relevant survey page. Once there, follow the instructions to provide your informed consent and complete the survey.
 
 If you would like further information, please read the following.
 
