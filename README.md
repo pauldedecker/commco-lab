@@ -1,13 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Projects
+permalink: /projects/
 ---
-
-
-The NLSA COLLABORATIVE is a research group in solidarity with The Newfoundland and Labrador Stuttering Association and all those who live with speech, language and communication impairments in the province of NL.
-
-We are people who stutter (PWS), members of provincial government, members of the public, educators, speech-language pathologists (SLP), academics, university students, mental health professionals, disability advocates and NLSA members.
 
 Our first project was funded by the Undergraduate Student Summer Internship Program at Memorial University. Linguistics student, Laura Tulk, designed a survey to assess public perceptions of stuttering in NL. To help promote the mandate of the NLSA, we produced a short documentary video called "Getting the Words Out" which was nominated for Best Student Short Doc at the 2020 Silver Wave Film Festival.
 
