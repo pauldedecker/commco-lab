@@ -5,16 +5,20 @@ categories: Research, Survey
 ---
 You are invited to complete a survey about the accessibility of services for people who stutter (PWS) in Newfoundland and Labrador. This survey is conducted by The Newfoundland and Labrador Stuttering Association Collaborative, which is a cross-sector group of people who stutter (PWS), members of provincial government, public-school teachers, early childhood educators, speech-language pathologists (S-LP), academics, university students, mental health professionals, disability advocates, and members of the Newfoundland and Labrador Stuttering Association (NLSA). We are all brought together around a common goal to address the current needs of people who stutter in Newfoundland and Labrador.
 
-We are looking to recruit
+We are looking to recruit:
 
 1. [people who stutter (PWS)](https://mun.az1.qualtrics.com/jfe/form/SV_1YnYI67ewFIF6XX)
 2. [parents or primary caregivers of (PWS)](https://mun.az1.qualtrics.com/jfe/form/SV_2643mGhjL1TAUUC)
 3. [speech-language pathologists](https://mun.az1.qualtrics.com/jfe/form/SV_2s0kxABfUQDjvIa)
 4. [educators](https://mun.az1.qualtrics.com/jfe/form/SV_71cWTwY4h0fPH38)
 
-If you identify as a member of one of these groups, and wish to take the survey, please click on the appropriate link in the list above to access the relevant survey page. Once there, follow the instructions to provide your informed consent and complete the survey.
+Surveys take between 15 to 45 minutes to complete, depending on which category you fall into.
 
-If you would like further information, please read the following.
+**If you identify as a member of one of these groups, and wish to take the survey, please click on the appropriate link in the list above to access the relevant survey page. Once there, follow the instructions to provide your informed consent and complete the survey.**
+
+Please note: we have received approval from the NLESD (Newfoundland and Labrador English School District) and our regional health authorities for their employees to complete these surveys.
+
+If you would like further information before you decide to participate, please read the following or contact the Principal Investigator, Dr. Paul De Decker, at [paul DOT dd AT mun DOT ca].
 
 **What is this project about?**
 
@@ -36,7 +40,7 @@ a) as evidence to identify deficits in intensive / specialized programs and serv
 
 b) to advocate for government funding to research and establish the identified needed intensive / specialized programs, services and supports for PWS in our province. We also want to develop workshops/guides for participants to understand concealable social identities commonly held by PWS, and any mental health concerns that often go along with them. SLPs, ECEs, PWS, and community members will develop skills to become aware of the role of stigma associated with non-standard ways of speaking.
 
-c) to identify other areas / concerns / issues related to supports and services that will require future research or surveying.
+c) to identify other issues related to support and services that will require future research or surveying.
 
 **Will my answers be anonymous and confidential?**
 
