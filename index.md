@@ -7,7 +7,7 @@
 #
 layout: default
 ---
-(./assets/images/noun_Iceberg_2258187_logo.png)
+![image of iceberg](noun_Iceberg_2258187_logo.png)
 
 The NLSA COLLABORATIVE is a research group in solidarity with The Newfoundland and Labrador Stuttering Association and those with speech, language and voice impairments living in the Canadian province of Newfoundland and Labrador.
 
