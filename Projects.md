@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+<h2>Current and Future Projects</h2>
 <h3>The Science of Stuttering</h3>
 
 "The Science of Stuttering” is a web-based open education resource (OER) to be used as part of an existing university or college level course in phonetics, sociolinguistics, or clinical phonetics, but can also stand alone for individual use. Paul De Decker will introduce “The Science of Stuttering” as a module in his 4th year undergraduate/graduate course, Experimental Phonetics at Memorial University in Fall 2022. Many students who take this course apply to graduate programs in Speech-Language Pathology in Canada or the US. This OER will introduce these students to issues in stuttering research and help develop skills that will be useful in their future studies. It will also challenge students to understand the personal identities of people who stutter as an important factor in the clinical treatment of stuttering. This will be the first OER developed within the Department of Linguistics at Memorial which will serve to promote OER among colleagues.
@@ -22,8 +23,8 @@ This project is a sociolinguistic investigation into how identities are construc
 
 We are currently seeking funding for this project.
 
-<h3>Completed</h3>
-
+<h2>Completed Projects</h2>
+<h3>Getting the Words Out</h3>
 Our first project was funded by the Undergraduate Student Summer Internship Program at Memorial University. Linguistics student, Laura Tulk, designed a survey to assess public perceptions of stuttering in NL. To help promote the mandate of the NLSA, we produced a short documentary video called "Getting the Words Out" which was nominated for Best Student Short Doc at the 2020 Silver Wave Film Festival.
 
 [![](http://img.youtube.com/vi/q5qlJvbfsCk/0.jpg)](http://www.youtube.com/watch?v=q5qlJvbfsCk "Getting the Words Out")
