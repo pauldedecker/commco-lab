@@ -4,6 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 <h2>Current and Future Projects</h2>
+
+<h3>Accessibility Survey</h3>
+
+Funded by the Office of Public Engagement at Memorial University. For more details see [here](./_posts/2021-07-15-ACCESS_SURVEY.md)
+
+<h3>Some Stutter, Luh!</h3>
+
+Newfoundland and Labrador's first podcast about about living with language disorders. We speak directly to people living with speech and language disorders, and others such as speech language pathologists, researchers, educators and family members. We use inclusive language and themes to help rebuild confidence and hope by dismantling myths, stigma, stereotypes and barriers. [Go to podcast website](https://somestutterluh.ca)
+
 <h3>The Science of Stuttering</h3>
 
 "The Science of Stuttering” is a web-based open education resource (OER) to be used as part of an existing university or college level course in phonetics, sociolinguistics, or clinical phonetics, but can also stand alone for individual use. Paul De Decker will introduce “The Science of Stuttering” as a module in his 4th year undergraduate/graduate course, Experimental Phonetics at Memorial University in Fall 2022. Many students who take this course apply to graduate programs in Speech-Language Pathology in Canada or the US. This OER will introduce these students to issues in stuttering research and help develop skills that will be useful in their future studies. It will also challenge students to understand the personal identities of people who stutter as an important factor in the clinical treatment of stuttering. This will be the first OER developed within the Department of Linguistics at Memorial which will serve to promote OER among colleagues.
@@ -11,10 +20,6 @@ permalink: /projects/
 This project is generously funded by an [AtlanticOER Grant](https://atlanticoer-relatlantique.ca/) to Dr. Paul De Decker. Founded by CAUL-CBUA, AtlanticOER is
 
 > a service that supports the hosting and creation of open educational resources by educators and students by the Atlantic provinces of Newfoundland and Labrador, New Brunswick, Nova Scotia, and Prince Edward Island.
-
-<h3>Accessibility Survey</h3>
-
-Funded by the Office of Public Engagement at Memorial University. For more details see [here](./_posts/2021-07-15-ACCESS_SURVEY.md)
 
 
 <h3>Stuttering and Sociolinguistic Identity: an apparent time study</h3>
