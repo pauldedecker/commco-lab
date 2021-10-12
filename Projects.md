@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 <h2>Current and Future Projects</h2>
 <h3>Accessibility Survey</h3>
-Funded by the Office of Public Engagement at Memorial University by a Quick Start Grant in Winter 2021. For more details see [here](./_posts/2021-07-15-ACCESS_SURVEY.md)
+Funded by the Office of Public Engagement at Memorial University by a Quick Start Grant in Winter 2021. For more details see [here](./_posts/2021-10-12-ACCESS_SURVEY.md).
 
 <h3>Some Stutter, Luh!</h3>
 Newfoundland and Labrador's first podcast about about living with language disorders. We speak directly to people living with speech and language disorders, and others such as speech language pathologists, researchers, educators and family members. We use inclusive language and themes to help rebuild confidence and hope by dismantling myths, stigma, stereotypes and barriers. [Go to podcast website.](https://somestutterluh.ca)
