@@ -13,4 +13,6 @@ The NLSA COLLABORATIVE is a research group in solidarity with The Newfoundland a
 
 We are people who stutter (PWS), members of provincial government, members of the public, educators, speech-language pathologists, academic researchers, university students, mental health professionals, disability advocates, and NLSA members.
 
+![ISAD](https://isad.isastutter.org/wp-content/uploads/2021/05/820x312pixels.jpg)
+
 For more information about the NLSA - which is dedicated to advocacy and support for people who stutter - please visit their [website.](https://nlstuttering.ca)
