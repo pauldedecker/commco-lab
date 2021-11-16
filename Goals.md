@@ -4,7 +4,9 @@ title: Goals
 permalink: /goals/
 ---
 
-In solidarity with the Newfoundland and Labrador Stuttering Association, and those living with speech or language impairments, the NLSA Collaborative is positioned to carry out the following research:
+In solidarity with the Newfoundland and Labrador Stuttering Association, and those living with speech or language impairments, the NLSA Collaborative seeks to understand the social impact of stuttering and language disorders in Newfoundland and Labrador.
+
+We are positioned to carry out the following research:
 
 1. To better understand, and mitigate the social factors that create communication barriers for those who live with speech, language and voice disorders.
 
@@ -16,4 +18,7 @@ In solidarity with the Newfoundland and Labrador Stuttering Association, and tho
 
 5. To conduct primary research for scholarly and public audiences on the sociolinguistic factors that underly communication disorders within the province.
 
-6. To create, fund and distribute participant-engaged, short documentary media that communicate these goals. 
+6. To create, fund and distribute participant-engaged, short documentary media that communicate these goals.
+
+Often the immediate impacts include higher rates of anxiety, depression, as well as lower qualities of life and self-esteem (Boyle, 2015) for individuals living with communication impairments. It is therefore imperative to share our findings with
+and implement strategies for those who can use them. Our process involves creating documentary media (i.e. short films and podcasts that can be used by the public to help mitigate the stigma of public opinion and practices. 
