@@ -7,6 +7,12 @@ permalink: /projects/
 <h3>Accessibility Survey</h3>
 Funded by the Office of Public Engagement at Memorial University by a Quick Start Grant in Winter 2021. For more details see [here](./_posts/2021-10-12-ACCESS_SURVEY.md).
 
+
+<h3>Finding the Right Therapist Will Change Your Life</h3>
+A short pilot video.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WzmAlKz392o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <h3>Some Stutter, Luh!</h3>
 Newfoundland and Labrador's first podcast about about living with language disorders. We speak directly to people living with speech and language disorders, and others such as speech language pathologists, researchers, educators and family members. We use inclusive language and themes to help rebuild confidence and hope by dismantling myths, stigma, stereotypes and barriers. [Go to podcast website.](https://somestutterluh.ca)
 
