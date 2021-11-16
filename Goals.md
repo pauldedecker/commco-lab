@@ -21,4 +21,5 @@ We are positioned to carry out the following research:
 6. To create, fund and distribute participant-engaged, short documentary media that communicate these goals.
 
 Often the immediate impacts include higher rates of anxiety, depression, as well as lower qualities of life and self-esteem (Boyle, 2015) for individuals living with communication impairments. It is therefore imperative to share our findings with
-and implement strategies for those who can use them. Our process involves creating documentary media (i.e. short films and podcasts that can be used by the public to help mitigate the stigma of public opinion and practices. 
+and implement strategies for those who can use them. Our process involves creating documentary media (i.e. short films and podcasts that can be used by the public to challenge, dismantle, and prevent public stigma towards PWS. By encouraging stuttering acceptance through educational, knowledge mobilizing media. By increasing public knowledge and improving public perceptions towards stuttering, knowledge-based media can play a crucial role in empowering and instilling a sense
+of self-worth among individuals (Budig et al. 2018). 
