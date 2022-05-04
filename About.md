@@ -3,8 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<h2>About Us</h2>
-
 The COMMCO-lab is entirely, 100%, online. We started promoting undergraduate research through a collaborative documentary media project in solidarity with the Newfoundland and Labrador Stuttering Assocition (NLSA), (Title: A sociolinguistic study of the perception of stuttering). This project was initiated in the summer of 2020 and is ongoing. Upon inception, it was funded under Memorial’s Undergraduate Student Summer Internship Program (USSIP) which provided an undergraduate student a supervised, scholarly-research experience and served to promote research among Memorial’s undergraduate student body.
 
 The project established a partnership between the Newfoundland and Labrador Stuttering Association (NLSA) and the Linguistics Department to better understand public perceptions of stuttering and persons who stutter (PWS) and to promote the mandates and goals of the NLSA to new communities across Newfoundland and Labrador.
