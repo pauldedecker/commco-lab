@@ -7,12 +7,9 @@
 #
 layout: home
 ---
-![image of iceberg](./assets/images/noun_Iceberg_2258187_white.png){:height="50%" width="50%"}
 
-The NLSA COLLABORATIVE is a research group in solidarity with The Newfoundland and Labrador Stuttering Association (NLSA) and those with speech, language and voice impairments living in the Canadian province of Newfoundland and Labrador.
 
-We are people who stutter (PWS), members of provincial government, members of the public, educators, speech-language pathologists, academic researchers, university students, mental health professionals, disability advocates, and NLSA members.
+The Communication Collaborative (COMMCO-Lab) is an inter-disciplinary group designed to foster a culture of research among undergraduate students at Memorial University and within communities of Newfoundland and Labrador. 
 
-For more information about the NLSA - which is dedicated to advocacy and support for people who stutter - please visit their [website.](https://nlstuttering.ca)
 
 <h2>News</h2>
