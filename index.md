@@ -13,4 +13,4 @@ The Communication Collaborative (COMMCO-Lab) is an online, research and experien
 
 We specialize in digital media production as tools for asking questions and engaging our audiences. 
 
-This site is maintained by project director, <p><a href="mailto:pauldd@mun.ca">Paul De Decker</a></p>, a linguist at Memorial University of Newfoundland and Labrador.
+This site is maintained by project director, <a href="mailto:pauldd@mun.ca">Paul De Decker</a>, a linguist at Memorial University of Newfoundland and Labrador.
