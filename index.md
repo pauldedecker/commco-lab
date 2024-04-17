@@ -11,6 +11,8 @@ layout: home
 <h1>Home</h1>
 The Communication Collaborative (COMMCO-Lab) is an online, research and experience-exchange group designed to foster a culture of solidarity research between students and citizens living in Atlantic Canada.
 
-We specialize in digital media production as tools for asking questions and engaging our audiences. 
+We specialize in digital media production as tools for asking questions and engaging with neurodiverse people who have experienced barriers in their lives because they communicate differently.
 
 This site is maintained by project director, <a href="mailto:pauldd@mun.ca">Paul De Decker</a>, a linguist at Memorial University of Newfoundland and Labrador.
+
+[[Why do people communicate differently?]]
