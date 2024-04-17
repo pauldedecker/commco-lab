@@ -15,22 +15,23 @@ As a community-engaged research project, we set two goals:
 
 Our results can be found in the [Silver Wave](https://www.swfilmfest.com/)-nominated "best student short-documentary, [Getting the Words Out](https://youtu.be/q5qlJvbfsCk) and our ongoing podcast series, [Some Stutter, Luh!](http://www.somestutterluh.ca).
 
-Ongoing benefits to collaborators & stakeholders include:
+Ongoing benefits to collaborators & stakeholders include of this project include:
 
-learning about stuttering research and how it could be used for NLSA advocacy
-discussing ways to leverage support from public and private agencies
-participating in research (e.g. to study / recognize deficits in the province’s programs and services for PWS)
-promoting cross-discipline research at Memorial University
-providing learning experiences for both undergraduate and graduate students attending Memorial, and MUN alumni (e.g. speech-language pathology students who are attending graduate schools out of province).
+- learning about stuttering research and how it could be used for NLSA advocacy
+- discussing ways to leverage support from public and private agencies
+- participating in research (e.g. to study / recognize deficits in the province’s programs and services for PWS)
+- promoting cross-discipline research for both undergraduate and graduate students, and alumni
+- volunteering for a worthy cause
+- tackling social injustice
 
-Current Projects
+<h2>Current Projects</h2>
 
 [Some Stutter, Luh!](https://somestutterluh.ca)
 [Accessibility surveys](2022-04-01-ACCESS_SURVEY.md)
 The Social Science of Stuttering: an open educational resource
 A Short Film About Discommunication
 
-Completed Projects
+<h2>Completed Projects</h2>
 
 [Getting the Words Out](https://youtu.be/q5qlJvbfsCk)
 
