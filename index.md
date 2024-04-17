@@ -15,4 +15,4 @@ We specialize in digital media for engaging with and advocating for our neurodiv
 
 Our lab is maintained by project director, <a href="mailto:pauldd@mun.ca">Paul De Decker</a>, a linguist at Memorial University of Newfoundland and Labrador.
 
-We acknowledge that the lands on which Memorial University’s campuses are situated are in the traditional territories of diverse Indigenous groups, and we acknowledge with respect the <a href=https://apihtawikosisan.com/2016/09/beyond-territorial-acknowledgments/>diverse histories and cultures</a> of the Beothuk, Mi’kmaq, Innu, and Inuit of this province.
+We acknowledge that the lands on which Memorial University’s campuses are situated are in the traditional territories of diverse Indigenous groups, and we acknowledge with respect the <a href=https://apihtawikosisan.com/2016/09/beyond-territorial-acknowledgments>diverse histories and cultures</a> of the Beothuk, Mi’kmaq, Innu, and Inuit of this province.
