@@ -13,7 +13,7 @@ As a community-engaged research project, we set two goals:
 
 2. to communicate our research findings using educational, knowledge-mobilizing documentary media in order to encourage stuttering acceptance, help combat harmful stereotypes against PWS and help the NLSA provide informed support to PWS. We believe that our knowledge-based media can play a crucial role in empowering PWS.
 
-Our results can be found in the [Silver Wave](https://www.swfilmfest.com/)-nominated "best student short-documentary, [Getting the Words Out](https://youtu.be/q5qlJvbfsCk) and our ongoing podcast series, [Some Stutter, Luh!](somestutterluh.ca).
+Our results can be found in the [Silver Wave](https://www.swfilmfest.com/)-nominated "best student short-documentary, [Getting the Words Out](https://youtu.be/q5qlJvbfsCk) and our ongoing podcast series, [Some Stutter, Luh!](http://www.somestutterluh.ca).
 
 Ongoing benefits to collaborators & stakeholders include:
 
