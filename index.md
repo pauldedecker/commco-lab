@@ -9,7 +9,7 @@ layout: home
 ---
 
 <h1>Home</h1>
-<h2></h2>The Communication Collaborative (COMMCO-Lab) is an online, experience-exchange group designed to foster a culture of solidarity research between students and citizens in their communities.
+<h2>The Communication Collaborative (COMMCO-Lab) is an online, experience-exchange group designed to foster a culture of solidarity research between students and citizens in their communities.
 
 We specialize in digital media for engaging with and advocating for our neurodiverse partners and people who communicate differently.
 
