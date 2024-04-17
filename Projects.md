@@ -15,7 +15,7 @@ As a community-engaged research project, we set two goals:
 
 Our results can be found in the [Silver Wave](https://www.swfilmfest.com/)-nominated "best student short-documentary, [Getting the Words Out](https://youtu.be/q5qlJvbfsCk) and our ongoing podcast series, [Some Stutter, Luh!](http://www.somestutterluh.ca).
 
-Ongoing benefits to collaborators & stakeholders include of this project include:
+Ongoing benefits to collaborators & stakeholders included of this project include:
 
 - learning about stuttering research and how it could be used for NLSA advocacy
 - discussing ways to leverage support from public and private agencies
